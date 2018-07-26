@@ -1,0 +1,4 @@
+<?php
+
+// exercice 1
+
